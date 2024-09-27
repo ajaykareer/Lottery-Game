@@ -40,12 +40,13 @@ This project is split into multiple modules for better organization and maintain
 
 3. **Choose an option from the menu**:
 
-    1: Play the lottery by guessing a number between 1 and 5.
-    2: View your scoreboard (wins/losses).
-    3: Change the player.
-    4: View the player with the highest wins.
-    5: Save your scores to a file (lottery_scores.txt).
+    1: Play the lottery by guessing a number between 1 and 5.  
+    2: View your scoreboard (wins/losses).  
+    3: Change the player.  
+    4: View the player with the highest wins.  
+    5: Save your scores to a file (lottery_scores.txt).  
     6: Quit the game.
+
 
 ## 📝 Saving Scores
 At any time, you can save the current scores of all players to a file by selecting Option 5 from the main menu. This will create or update the lottery_scores.txt file, which contains a record of wins and losses for each player.
